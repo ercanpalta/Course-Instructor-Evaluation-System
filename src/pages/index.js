@@ -1,0 +1,14 @@
+export { default as HomePage } from "./homepage";
+export { default as SignInOut } from "./signinout";
+export { default as CreateEvaluationPage } from "./createevaluationpage";
+export { default as EnrollPage } from "./enrollpage";
+export { default as SeeEvaResPage } from "./seeevarespage";
+export { default as SeeCoursesPage } from "./seecourses";
+export { default as AccountsPage } from "./accountspage";
+export { default as AddSemesterPage } from "./addsemesterpage";
+export { default as ForgetPasswordPage } from "./forgetpasswordpage";
+export { default as EditPage } from "./editpage";
+export { default as AsnwerEvaluation } from "./answerevaluationpage";
+export { default as ManiplateAccountPage } from "./maniplateaccountpage";
+export { default as SendEmail } from "./sendemail";
+export { default as AssignInstructorToCourse } from "./assingisntructortocourse";
